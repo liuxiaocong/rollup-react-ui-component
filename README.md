@@ -1,4 +1,12 @@
-### Demo for using rollup to build react component ###
+### Demo for using rollup to build typescript react component ###
+
+## Add global tools ##
+
+```shell
+npm install -g rollup
+npm install -g parcel
+npm install -g typescript
+```
 
 
 ## Run and test component lib
