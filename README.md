@@ -24,7 +24,7 @@ yarn demo
 yarn build
 npm link
 cd my-app
-npm link myRollUpLib
+npm link my-roll-up-lib
 ```
 
 
